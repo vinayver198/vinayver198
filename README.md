@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Vinay Kumar Verma</h1>
+<h3 align="center">Computer Vision 3D Engineer</h3>
 # 🧑‍💻 My open source repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayver198&repo=PointNet-TF-2.0&theme=radical)](https://github.com/vinayver198/PointNet-TF-2.0.git)
