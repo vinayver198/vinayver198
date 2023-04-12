@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 # 🧑‍💻 My open source repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayver198&repo=PointNet-TF-2.0&theme=radical)](https://github.com/vinayver198/PointNet-TF-2.0.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayver198&repo=3D-DeepBox&theme=radical)](https://github.com/vinayver198/3D-DeepBox.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinayver198&repo=pseudolidar&theme=radical)](https://github.com/vinayver198/pseudolidar.git)
